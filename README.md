@@ -24,5 +24,7 @@
 
 数据库: Mysql
 
+需求:  https://mind.airmore.cn/doc/8181172335
+
 (虽然学了mybaits, 但是仍然使用JPA, 本人太懒了, hhh, 再一个这个项目比较简单, JPA够用了)
 
